@@ -1,2 +1,2 @@
-# Fooster
+# Foosters
 Files
